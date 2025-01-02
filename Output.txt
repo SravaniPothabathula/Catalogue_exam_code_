@@ -1,0 +1,4 @@
+#Output for 2 testcases:
+
+C value for test case 1 : 3
+C value for test case 2: 105385603928667947008
